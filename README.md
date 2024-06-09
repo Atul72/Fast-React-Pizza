@@ -2,8 +2,8 @@
 
 - This app allows you to order fast food easily and quickly with mobile app like feel.
 - You can also track you order with your order id.
-- Pay on available 
-- Responsive app like no other 
+- Pay with cash available.
+- Responsive app like no other app. 
 
 
 # Iniatilze the app
