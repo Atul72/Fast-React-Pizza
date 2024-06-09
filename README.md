@@ -8,6 +8,6 @@
 
 # Iniatilze the app
 
-- Step 1 ==> npm insatll (To install all the dependencies)
+- Step 1 ==> npm install (To install all the dependencies)
 - Step 2 ==> npm start dev 
   
