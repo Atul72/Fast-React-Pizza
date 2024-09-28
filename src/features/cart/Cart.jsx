@@ -5,16 +5,6 @@ import { useDispatch, useSelector } from 'react-redux';
 import { clearCart, getCart } from './cartSlice';
 import EmptyCart from './EmptyCart';
 
-const fakeCart = [
-  {
-    pizzaId: 12,
-    name: 'Mediterranean',
-    quantity: 2,
-    unitPrice: 16,
-    totalPrice: 32,
-  },
-];
-
 function Cart() {
   const username = useSelector((state) => state.user.username);
   const cart = useSelector(getCart);
